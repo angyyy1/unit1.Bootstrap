@@ -22,4 +22,15 @@
             height: 120px; 
         }
 
-    
+    h1 {
+        color: greenyellow;
+        font-size: 100px;
+    }
+
+    h2 { 
+        color: blue;
+    }
+
+    h3 {
+        color:aqua ;
+    }
