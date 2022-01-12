@@ -1,36 +1,23 @@
-
-.box1 {
-    background-color:yellow;
-    width: 600px;
-    height: 400px;
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
 }
 
-.box2 {
-    background-color:pink;
-    width: 400px;
-    height: 250px;
+
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 70px;
+    background-color: white;
+    color: black;
 }
 
-.box3 {
-    background-color:gray;
-    width: 100px;
-    height: 300px; 
-}
-.box4 {
-    background-color:purple;
-    width: 350px;
-    height: 120px; 
+
+.cube{
+    border-width: ;
 }
 
-h1 {
-color: black;
-font-size: 100px;
-}
-
-h2 { 
-color: blue;
-}
-
-h3 {
-color:aqua ;
-}
